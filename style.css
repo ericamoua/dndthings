@@ -1,0 +1,7 @@
+body {
+    background-image: url('https://www.istockphoto.com/photo/antique-paper-texture-yellowed-with-age-old-manuscript-with-blank-space-for-text-gm1447350449-485187792?utm_campaign=srp_photos_bottom&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fscrolls%3Forientation%3Dlandscape&utm_medium=affiliate&utm_source=unsplash&utm_term=scrolls%3A%3A%3A');
+    /* Optionally, you can set other properties like background size, repeat, position, etc. */
+    background-size: cover; /* Adjusts the size of the background image to cover the entire element */
+    background-repeat: no-repeat; /* Prevents the background image from repeating */
+    /* You can add more properties as needed */
+}
